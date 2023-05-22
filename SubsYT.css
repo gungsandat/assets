@@ -59,7 +59,7 @@ body {
 }
 .teks:nth-child(5n) {
   /*background: radial-gradient(#1fe4f5, #3fbafe); */
-  background-image:url("image.jpg");
+  background-image:url("imagefix.png");
    background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
