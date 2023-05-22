@@ -58,7 +58,8 @@ body {
   transform-origin: top left;
 }
 .teks:nth-child(5n) {
-  background: radial-gradient(#1fe4f5, #3fbafe);
+  /*background: radial-gradient(#1fe4f5, #3fbafe); */
+  background-image:url(
 }
 
 .teks:nth-child(5n + 1) {
