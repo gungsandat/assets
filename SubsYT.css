@@ -49,7 +49,7 @@ body {
   align-items: center;
   font-size: 2.5em;
   font-weight: 500;
-  color: white;
+  color: black;
   text-shadow: 2px 1px 5px rgba(0, 0, 0, 0.479);
   padding: 30px;
   text-align: center;
@@ -59,7 +59,7 @@ body {
 }
 .teks:nth-child(5n) {
   /*background: radial-gradient(#1fe4f5, #3fbafe); */
- /* background-image:url("sintya.jpeg");*/
+  background-image:url("image.png");
    background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
