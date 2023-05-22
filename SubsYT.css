@@ -59,7 +59,12 @@ body {
 }
 .teks:nth-child(5n) {
   /*background: radial-gradient(#1fe4f5, #3fbafe); */
-  background-image:url(
+  background-image:url("sintya.jpeg");
+ filter: blur(8px);
+  -webkit-filter: blur(8px);
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .teks:nth-child(5n + 1) {
